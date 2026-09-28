@@ -1,0 +1,61 @@
+{
+    "transport": [
+        {
+            "from": "Bengaluru",
+            "to": "Goa",
+            "mode": "Bus",
+            "price": 1200
+        },
+        {
+            "from": "Bengaluru",
+            "to": "Goa",
+            "mode": "Train",
+            "price": 900
+        },
+        {
+            "from": "Bengaluru",
+            "to": "Goa",
+            "mode": "Flight",
+            "price": 3500
+        }
+    ],
+    "hotels": [
+        {
+            "city": "Goa",
+            "name": "Goa Budget Stay",
+            "price": 1000
+        },
+        {
+            "city": "Goa",
+            "name": "Beach View Hotel",
+            "price": 2000
+        },
+        {
+            "city": "Goa",
+            "name": "Luxury Resort & Spa",
+            "price": 5000
+        }
+    ],
+    "places": [
+        {
+            "city": "Goa",
+            "name": "Baga Beach",
+            "type": "Beach"
+        },
+        {
+            "city": "Goa",
+            "name": "Calangute Beach",
+            "type": "Beach"
+        },
+        {
+            "city": "Goa",
+            "name": "Fort Aguada",
+            "type": "Historical"
+        },
+        {
+            "city": "Goa",
+            "name": "Panjim Market",
+            "type": "Shopping"
+        }
+    ]
+}
